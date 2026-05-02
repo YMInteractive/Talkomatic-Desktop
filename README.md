@@ -4,3 +4,4 @@ it's built on electron (app) and inno setup (installer)
 this electron project does NOT use a index.html it only uses a main.js because it just loads the talkomatic website (Classic.talkomatic.co) in a window
 
 License: MIT
+Copyright (c) 2026 YUSR - YMutiri
